@@ -1,5 +1,8 @@
 # Virtual-Reality-Environment
 A virtual reality environment created writh Unreal Engine.
 
-#Levels
-This project has 5 levels, you can from all levels with a menu option go to next one
+This project has cool environments. In one of the environments you can play Drums in a Concert Hall, almost no difference from a real one!
+
+
+
+
